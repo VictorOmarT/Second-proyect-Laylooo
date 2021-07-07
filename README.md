@@ -2,8 +2,7 @@
 
 # Second project
 ## IMPORTAN! attribution and acknowledgment
-this proyect is the work of (https://github.com/Laylooo) she gave me permition to use it in this time for this practice.
-
+this project is the work of (https://github.com/Laylooo) she gave me permission to use it at this time for this practice.
 
 ## Built With
 
